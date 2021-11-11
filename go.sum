@@ -1,0 +1,8 @@
+github.com/fadetempest/Postgres-Go v0.0.0-20211019145217-41638e724bcb h1:j7lhxloYwK+sHjcCiJk0Q4vTG6F4lGcWGapnGlEjXnA=
+github.com/fadetempest/Postgres-Go v0.0.0-20211019145217-41638e724bcb/go.mod h1:ZMvjd9+1Bd4ULSd2gPKs83w/Kc2MpXp935j0LUQfc/U=
+github.com/golang-jwt/jwt v3.2.2+incompatible h1:IfV12K8xAKAnZqdXVzCZ+TOjboZ2keLg81eXfW3O+oY=
+github.com/golang-jwt/jwt v3.2.2+incompatible/go.mod h1:8pz2t5EyA70fFQQSrl6XZXzqecmYZeUEB8OUGHkxJ+I=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=
+github.com/lib/pq v1.10.3 h1:v9QZf2Sn6AmjXtQeFpdoq/eaNtYP6IN+7lcrygsIAtg=
+github.com/lib/pq v1.10.3/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
